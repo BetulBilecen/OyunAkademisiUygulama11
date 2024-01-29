@@ -1,0 +1,573 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1706490759772444, "dur":53, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490759772544, "dur":1781, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490759774377, "dur":179, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490759774615, "dur":264, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490759775406, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1706490759775620, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1706490759774893, "dur":3863, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490759778760, "dur":244223, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490760022984, "dur":392, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490760023545, "dur":3182, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1706490759775719, "dur":3349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759779069, "dur":4867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759783943, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1706490759783999, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759797071, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1706490759798732, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759798784, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759799092, "dur":14599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759813760, "dur":14733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759813758, "dur":14737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759828496, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759828612, "dur":3749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759832402, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759832400, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759832487, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759832735, "dur":4464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759837247, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759837312, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759837475, "dur":4888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759842455, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759842560, "dur":5634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.IMGUIModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759848311, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759848308, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759848463, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759848636, "dur":6862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1706490759855644, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759855988, "dur":7799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759863888, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759864127, "dur":4807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759868995, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759869147, "dur":4742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759873950, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759874036, "dur":3740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759877855, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759877976, "dur":3901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759881937, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759882070, "dur":5229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759887382, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759887507, "dur":8087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759895671, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759895843, "dur":7884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759903916, "dur":2166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1706490759906286, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1706490759906616, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1706490759908678, "dur":114303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759775292, "dur":3493, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759778789, "dur":651, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759779440, "dur":4527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759783977, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1706490759783968, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1706490759784210, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759800773, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1706490759802565, "dur":21429, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759802564, "dur":21431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759823997, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759824190, "dur":3529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759827819, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759827816, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759827873, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759827986, "dur":3497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759831577, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759831671, "dur":4298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UIModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759836080, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759836078, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759836145, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759836298, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759840488, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759840486, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759840541, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759840640, "dur":4104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759844847, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759844976, "dur":5994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.DSPGraphModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759851070, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ARModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759851067, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ARModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759851132, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759851332, "dur":6364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ARModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1706490759857792, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759857986, "dur":4473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759862511, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759862647, "dur":5833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759868558, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759868669, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759873196, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759873289, "dur":3185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759876525, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759876923, "dur":4020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759880991, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759881091, "dur":4006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759885156, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759885313, "dur":8895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759894372, "dur":344, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759894758, "dur":5204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759900024, "dur":1231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1706490759901287, "dur":5938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1706490759907398, "dur":3877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1706490759911328, "dur":111686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759775445, "dur":3432, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759778880, "dur":795, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759779676, "dur":4289, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759783970, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1706490759799836, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1706490759801474, "dur":22391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759801473, "dur":22394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759823868, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759823969, "dur":3408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Demos.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759827461, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759827458, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759827547, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759827746, "dur":3980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759831810, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759831941, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UIElementsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759836675, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759836784, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SharedInternalsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759841194, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759841386, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.InputModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759845744, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759845740, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759845814, "dur":276, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759846119, "dur":7536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1706490759853735, "dur":250, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759854027, "dur":7893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759861979, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759862121, "dur":5733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759867944, "dur":358, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759868325, "dur":5378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759873806, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759873907, "dur":4210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759878168, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759878331, "dur":4702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759883097, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759883271, "dur":5506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759888906, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759895927, "dur":267, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759889129, "dur":7087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759896373, "dur":285, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1706490759896731, "dur":7511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1706490759904317, "dur":5522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1706490759909932, "dur":113062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1706490759775194, "dur":3573, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1706490759778770, "dur":5119, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1706490759783963, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490759784022, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490759784374, "dur":336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759784710, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759784873, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785149, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785268, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785369, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785462, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785574, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759785642, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1706490759783962, "dur":2070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490759786245, "dur":77, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1706490759787025, "dur":222587, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490760014578, "dur":6422, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490760014577, "dur":6427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1706490760021070, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1706490759775226, "dur":3548, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759778779, "dur":765, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759779545, "dur":4486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759784032, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1706490759799525, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1706490759801303, "dur":17821, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759801302, "dur":17825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759819129, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759819336, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Utilities.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759820940, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759821197, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759823504, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759823502, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759823634, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759825742, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759825831, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759829498, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759829620, "dur":4198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityCurlModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759833897, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759833979, "dur":4673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TerrainModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759838762, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759838848, "dur":4076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.Physics2DModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759843001, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759843093, "dur":5604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GameCenterModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759848769, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759848766, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759848828, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759849015, "dur":6185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1706490759855308, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759855705, "dur":6169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759861932, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759862114, "dur":6122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759868290, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759868396, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759873164, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759873232, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759873313, "dur":3409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759876781, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759876930, "dur":3769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759880753, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759880848, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759884880, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759894055, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759884980, "dur":9208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759894532, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759894733, "dur":7299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759902090, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1706490759902351, "dur":5642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1706490759908147, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1706490759911534, "dur":111483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759775390, "dur":3403, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759778796, "dur":428, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759779224, "dur":4671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759783919, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759783901, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759784559, "dur":2695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759787318, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759787767, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1706490759789185, "dur":5591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1706490759794829, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759795240, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1706490759796844, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1706490759799001, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1706490759800298, "dur":542, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759800297, "dur":544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759800887, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11.exe" }}
+,{ "pid":12345, "tid":6, "ts":1706490759802445, "dur":18998, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759802443, "dur":19002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759821447, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759821598, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759821749, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759823951, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759824030, "dur":3099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VirtualTexturingModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759827210, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759827374, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759830621, "dur":3390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759834124, "dur":4271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TLSModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759838468, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759838565, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ProfilerModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759841848, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759841998, "dur":3945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.InputLegacyModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759846049, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759846152, "dur":6023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ContentLoadModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759852230, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759852227, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759852292, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759852400, "dur":6264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1706490759858731, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759858905, "dur":4044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759862998, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759863170, "dur":4938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759868152, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759868330, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759872493, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759872565, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759875339, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759875416, "dur":3702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759879226, "dur":3778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759883137, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759883252, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759888210, "dur":445, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759888694, "dur":6360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759895102, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759895317, "dur":5938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759901306, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1706490759901408, "dur":5448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1706490759906962, "dur":3783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1706490759910793, "dur":112199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759775432, "dur":3373, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759778818, "dur":646, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759779465, "dur":4559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759784028, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1706490759784213, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759801223, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1706490759802946, "dur":23832, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759802944, "dur":23836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759826782, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759826941, "dur":4104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonRealtime.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759831109, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759831280, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UmbraModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759835289, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SubstanceModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759839289, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PerformanceReportingModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759842962, "dur":5160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GridModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759848219, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759848359, "dur":5832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClusterInputModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1706490759854248, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759854324, "dur":6712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759861085, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759861195, "dur":4003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759865261, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759865459, "dur":3706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759869206, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759869280, "dur":3502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759872814, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759872899, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759875948, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759876120, "dur":3818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759879973, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759880048, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759884068, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759884136, "dur":6116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759890508, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759890664, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759890824, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759896494, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759896664, "dur":6955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759903676, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1706490759903796, "dur":3759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1706490759907622, "dur":4541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1706490759912193, "dur":110791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759775470, "dur":3414, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759778887, "dur":646, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759779533, "dur":4457, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759783994, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1706490759799320, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1706490759801202, "dur":21542, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759801201, "dur":21546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759822749, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759822913, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759824898, "dur":3020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VideoModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759827983, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759827980, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759828045, "dur":267, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759828361, "dur":3532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759831972, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759832164, "dur":4068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TilemapModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759836293, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759836392, "dur":3870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SpriteShapeModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759840377, "dur":3243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.NVIDIAModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759843676, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759843743, "dur":5378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GIModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759849212, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759849606, "dur":6058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AnimationModule.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1706490759855743, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759855972, "dur":4688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759860718, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759860876, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759864897, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759865027, "dur":4994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759870064, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759870149, "dur":3811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759873992, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759874078, "dur":3043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759877216, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759880870, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759881027, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759884359, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759890571, "dur":225, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759884434, "dur":6381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759891003, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759891135, "dur":5677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759896862, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1706490759897053, "dur":6890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1706490759904022, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1706490759905760, "dur":1887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1706490759907696, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1706490759911047, "dur":111962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759775513, "dur":3524, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759779039, "dur":592, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759779632, "dur":4373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759784019, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1706490759784008, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1706490759799451, "dur":1556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1706490759801098, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759803217, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Photon3Unity3D.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759805409, "dur":22104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759805406, "dur":22109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759827516, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759827645, "dur":3039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759830740, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759830913, "dur":3959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759834935, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759835026, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SubsystemsModule.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759838735, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759838803, "dur":3279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PhysicsModule.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759842139, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759842228, "dur":4459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ImageConversionModule.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759846776, "dur":292, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759847102, "dur":5715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClusterRendererModule.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1706490759852874, "dur":313, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759853222, "dur":9043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759862394, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759862556, "dur":4572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759867172, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759867317, "dur":3810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759871181, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759871311, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759874562, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759874656, "dur":3678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759878370, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759878467, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759882213, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759882303, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759885839, "dur":716, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759886600, "dur":7067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759893728, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759893841, "dur":4274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759898175, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1706490759898371, "dur":6324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1706490759904748, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1706490759906968, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1706490759910173, "dur":112817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759775557, "dur":3486, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759779044, "dur":321, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759779365, "dur":4569, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759783954, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1706490759783936, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1706490759784013, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759796883, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1706490759799025, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759800870, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1706490759800955, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759801445, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1706490759803052, "dur":20280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759803051, "dur":20290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759823342, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759823456, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759825398, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759825485, "dur":3449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VehiclesModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759829062, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759829043, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759829133, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759829222, "dur":3566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759832887, "dur":3707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759836651, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759836772, "dur":3316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SpriteMaskModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759840150, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759840291, "dur":3697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ParticleSystemModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759844083, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759844302, "dur":6244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.DirectorModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759850633, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759850690, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759850805, "dur":5689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1706490759856544, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759856842, "dur":4721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759861606, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759861753, "dur":4579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759866370, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759866482, "dur":3907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759870421, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759870624, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759874895, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759875034, "dur":4096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759879207, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759879276, "dur":3663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759882985, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759883092, "dur":4785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759887933, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759888060, "dur":6416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759894530, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759894724, "dur":4578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759899343, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759899437, "dur":5850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1706490759905350, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1706490759905450, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1706490759907401, "dur":3594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1706490759911027, "dur":111973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759775649, "dur":3398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759779047, "dur":4847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759783919, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759783901, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759783987, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759785519, "dur":24026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759809604, "dur":16249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759809601, "dur":16254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759825856, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759825954, "dur":3894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759829924, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759830078, "dur":3624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759833758, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759833908, "dur":3773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759837723, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759837721, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759837792, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759837943, "dur":3079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759841092, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759841168, "dur":3807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.JSONSerializeModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759845060, "dur":270, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759845364, "dur":5529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.CrashReportingModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759850973, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759851085, "dur":5930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AccessibilityModule.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1706490759857063, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759857283, "dur":5133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759862456, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759862565, "dur":5044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759867669, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759867866, "dur":4575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759872478, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759872567, "dur":2664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759875265, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759875418, "dur":3897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759879363, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759879558, "dur":3643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759883236, "dur":206, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759883484, "dur":5544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759889114, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759889282, "dur":6133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759895462, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759895600, "dur":5880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759901520, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1706490759901598, "dur":5298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1706490759906952, "dur":3887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1706490759910867, "dur":112155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759775668, "dur":3383, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759779051, "dur":4841, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759783975, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759785196, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1706490759786599, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759787843, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759789302, "dur":5552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1706490759795481, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759796737, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_development_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759796735, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759796857, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1706490759798554, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1706490759798696, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1706490759801107, "dur":19099, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HP\\Desktop\\hub\\My Week11\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759801106, "dur":19103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759820211, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759820305, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759823144, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759823142, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759823215, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759823311, "dur":2286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759825693, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759825835, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.VRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759829059, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759829056, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759829121, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759829229, "dur":3923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759833245, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759833361, "dur":4586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759838037, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PropertiesModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759838035, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PropertiesModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759838092, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759838242, "dur":4546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.PropertiesModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759842863, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759842957, "dur":5685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759848712, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759848710, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759848773, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759856209, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759849028, "dur":7437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1706490759856607, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759856850, "dur":8326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759865234, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759865476, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759869796, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759869910, "dur":4446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759874414, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759879029, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759874536, "dur":4572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759879180, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759879269, "dur":4764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759884080, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759884159, "dur":8246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759892606, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759892794, "dur":6227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759899098, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759906359, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1706490759899388, "dur":7069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1706490759906543, "dur":4441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/Desktop/11.HAFTA___DEV/My Week11_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1706490759911050, "dur":111955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1706490760031071, "dur":3567, "ph":"X", "name": "ProfilerWriteOutput" }
+,
